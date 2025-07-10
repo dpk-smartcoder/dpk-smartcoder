@@ -1,6 +1,6 @@
 $ echo "Hello, ${USER} 👋"
 
-# Welcome to My Digital Space!!
+# Welcome to my Digital Playground — Brace Yourself! 🎢
 
 <details> 
   <summary><code>$ whoami</code></summary>
