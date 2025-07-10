@@ -1,5 +1,3 @@
-$ echo "Hello, ${USER} 👋"
-
 # Welcome to my Digital Playground — Brace Yourself! 🎢
 
 <details> 
