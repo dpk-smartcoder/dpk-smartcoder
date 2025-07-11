@@ -3,7 +3,7 @@
 <details> 
   <summary><code>$ whoami</code></summary>
   <br/>
-I’m Deepak (also known as Mukul), a self-driven Software Developer based in 🇮🇳 Jhajjar, Haryana.
+I’m Deepak (nickname as Mukul), a self-driven Software Developer based in 🇮🇳 Jhajjar, Haryana.
 <br>My passion lies in the field of Artificial Intelligence 🤖 and building scalable software solutions.
 <br>Apart from coding, I enjoy playing chess ♟️ and diving into ancient wisdom through Vedic scriptures 📚.
 </details>
